@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is F0B6-5DB3
+
+ Directory of C:\Users\Shraddha\Desktop\MyProject
+
+03/26/2020  12:09 PM    <DIR>          .
+03/26/2020  12:09 PM    <DIR>          ..
+03/26/2020  12:09 PM                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  110,131,433,472 bytes free
